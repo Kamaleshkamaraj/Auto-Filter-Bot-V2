@@ -196,7 +196,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
         elif query.data == "about_data":
             await query.answer()
-            keyboard = InlineKeyboardMarkup([https://Kamaleshkamaraj.github.io/Auto-Filter-Bot-V2/
+            keyboard = InlineKeyboardMarkup([https://Kamaleshkamaraj.github.io/Auto-Filter-Bot-V2/")]
                 [InlineKeyboardButton("BACK", callback_data="help_data"),
                     InlineKeyboardButton("START", callback_data="start_data")],
                 [InlineKeyboardButton("SOURCE CODE", url="")]
