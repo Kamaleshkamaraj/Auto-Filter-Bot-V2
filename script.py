@@ -66,7 +66,7 @@ ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
 
 ⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a>
     
-
+"""
 
 
 
@@ -74,4 +74,4 @@ ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
 
  
 
-"""
+
